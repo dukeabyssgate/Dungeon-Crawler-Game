@@ -1,0 +1,7 @@
+The goal is to find the exit to the maze
+Each floor will grant you more power
+Kill the Tower denizens to absorb their lifeforce
+Use your own lifeforce to gain power from the Administrator
+The administrator may be generous or not
+Climb to the top of the Tower to have your wish granted
+I have scattered resurrection crystals across the tower to aid you in your travels

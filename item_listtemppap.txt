@@ -1,0 +1,25 @@
+Iron_Sword weapon strength 5
+Excalibur weapon strength@endurance@intelligence@willpower 1000@500@1000@500
+The_Emperor weapon strength@dexterity 50@50
+Anubis weapon strength@endurance@intelligence 100@50@-200
+Sting weapon strength 20
+Caliburn weapon strength@endurance@intelligence@willpower 500@200@500@200
+Caladbolg weapon strength@endurance@dexterity 500@400@500
+Gae_Bulg weapon strength@endurance@dexterity 700@300@800
+Spoon weapon strength@endurance@intelligence@willpower@dexterity 9000@9000@9000@9000@9000
+Gate_Of_Babylon weapon strength@endurance@intelligence@willpower@dexterity 1000@1000@1000
+Gun weapon Strength 999999
+Buster_Sword weapon strength@endurance 50@10
+Murasame weapon strength@endurance@dexterity 50@-20@10
+Hrunthing weapon strength@endurance@dexterity 10@10@10
+Ru_Jingu_Bang weapon
+Amaterasu weapon
+Necronomicon weapon intelligence@willpower 100@-100
+
+Iron_Helmet helmet endurance@willpower 5@5
+Silver_Helmet endurance@willpower 10@10
+Half_Gold_Helmet helmet endurance@willpower 15@15
+Gold_Helmet helmet endurance@willpower 20@20
+Tsukuyomi helmet
+
+Raijin boots

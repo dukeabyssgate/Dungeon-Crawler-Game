@@ -1,0 +1,8 @@
+Goblin_King 30 30 10 10 10 Attack@Meditate@A_Stone_Body@Healing@Power_Strike@Block@Roar_Of_The_Goblin_King@Lord's_Authority
+Goblin_Queen 10 20 30 30 20 Attack@Calm_Mind@Magic_Shield@FireBall@Fire_Bomb@High_Burn@Immolate@Wisdom_Of_The_Goblin_Queen@Lord's_Authority
+Orc_Chief 50 50 20 30 20 Attack@Calm_Mind@Double_Strike@A_Giant's_Body@Orc_Chief_Regeneration@Lord's_Authority
+Undead_Lord 30 30 30 30 30 Attack@Calm_Mind@Quadruple_Strike@Back_Stab@Magic_Shield@Rage_Of_The_Undead_Lord@Lord's_Authority
+Slime_Lord 25 25 50 50 50 Attack@Zen@Final_Sleep@Final_Poison@Final_Burn@Energy_Regeneration@Adaption_Of_The_Slime_Lord@Lord's_Authority
+Elemental_Dragon_Lord 30 70 70 50 60 Attack@Final_Zen@Breath_Of_The_Hydra@Envenom_Plus@Fire_Bomb@Forbidden_Knowledge@High_Heal@Touch_Of_The_Sun@Immolate@A_Dragon's_Strength@Flight_Of_The_Dragons@Lord's_Authority
+Wish_Dragon 60 60 60 60 60 Attack@Enlightenment@Eternal_Fire@Immortality(False)@Infinite_Mana@A_Dragon's_Strength@Wrath_Of_The_Dragons@Lord's_Authority
+Eldritch_God_Yoggoth 100 50 100 100 50 Attack@Enlightenment@Eternal_Nightmare@Dream_Eater_Plus@Silent_Death@Shadow_Walk@Strength_Of_Gods@Infinite_Mana@???@????@The_Gods_Are_Displeased@Lord's_Authority
