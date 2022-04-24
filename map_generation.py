@@ -128,26 +128,26 @@ def generate_map(tile_name_list):
                 Validated = tile_validation(tile_name_list[random_num], map_tile_ID, y, x, 1)
 
                 number += 1
-                if number > 50:
+                if number > 10:
                     Validated = False
 
             map_tile_ID[y][x] = tile_name_list[random_num]
 
-    for i in range(3):
-        for y in range(8):
-            for x in range(10):
-                number = 0
-                Validated = True
-                while Validated:
-                    if tile_validation(map_tile_ID[y][x], map_tile_ID, y, x, 2) is True:
-                        random_num = random.randint(0, 44)
-                        map_tile_ID[y][x] = tile_name_list[random_num]
-                    else:
-                        Validated = False
 
-                    number += 1
-                    if number > 10:
-                        Validated = False
+    for y in range(8):
+        for x in range(10):
+            number = 0
+            Validated = True
+            while Validated:
+                if tile_validation(map_tile_ID[y][x], map_tile_ID, y, x, 2) is True:
+                    random_num = random.randint(0, 44)
+                    map_tile_ID[y][x] = tile_name_list[random_num]
+                else:
+                    Validated = False
+
+                number += 1
+                if number > 10:
+                    Validated = False
 
     Validated = True
     while Validated:
