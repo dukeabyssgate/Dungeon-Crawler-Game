@@ -603,6 +603,7 @@ def generate_map(tile_name_list):
             Validated = True
             while Validated:
                 random_num = random.randint(0, 44)
+                
                 Validated = tile_validation(tile_name_list[random_num], map_tile_ID, y, x, 1)
 
                 number += 1
@@ -1760,7 +1761,7 @@ def battle(boss=False):
                 Run = button("Run", 950, 700, 200, 100, 50, white, red, run)
                 if Run is True:
                     InvalidMove = False
-                    player_picked_skill = ["None", "None", "None", "None"]
+                    player_picked_skill = ["None", "None", "None", "None", "None"]
 
                 pygame.display.update()
                 clock.tick(60)
